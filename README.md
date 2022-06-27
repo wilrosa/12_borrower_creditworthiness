@@ -138,11 +138,11 @@ Both models perform well. However, Machine Learning Model 2 performs better, as 
 
    (B) Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
    
-Yes, I goal is to predict which loans are high risk. While the both models have comprable precision ratings when classifying `1` "high-risk" loans (.85 vs. .84). Model 2 has higher recall score when classifying "high-risk" loans, .99 vs. .91.    
+Yes, the goal is to predict which loans are high risk. While both models have comprable precision ratings when classifying `1` "high-risk" loans (.85 vs. .84), Model 2 has a higher recall score when classifying "high-risk" loans, .99 vs. .91.    
 
    (C) Recommendation and reasoning.
 
-I recommend using Machine Learning Model 2 for the reasons mentioned above. I has a slightly higher balanced accuracy score and a hgiher recall score when classifying "high-risk" loans. 
+I recommend using Machine Learning Model 2 for the reasons mentioned above. It has a slightly higher balanced accuracy score and a hgiher recall score when classifying "high-risk" loans. 
    
 ---
 ## Contributors
